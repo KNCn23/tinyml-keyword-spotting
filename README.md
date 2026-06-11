@@ -1,4 +1,13 @@
-# tinyml-keyword-spotting
+<div align="center">
+
+<a href="https://kncn23.github.io/#projects"><img src="assets/banner.svg" alt="tinyml-keyword-spotting — audio to log-mel to NumPy MLP to INT8 to pure-C inference" width="100%"></a>
+
+[![Top language](https://img.shields.io/github/languages/top/KNCn23/tinyml-keyword-spotting?style=flat-square&labelColor=0a0e14&color=58e6d9)](https://github.com/KNCn23/tinyml-keyword-spotting)
+![Dependencies](https://img.shields.io/badge/deps-NumPy%20%2B%20C99-7c8cff?style=flat-square&labelColor=0a0e14)
+[![License](https://img.shields.io/github/license/KNCn23/tinyml-keyword-spotting?style=flat-square&labelColor=0a0e14&color=8b9bb4)](LICENSE)
+[![Portfolio](https://img.shields.io/badge/portfolio-kncn23.github.io-58e6d9?style=flat-square&labelColor=0a0e14)](https://kncn23.github.io)
+
+</div>
 
 A complete, dependency-light **TinyML keyword-spotting** pipeline: it takes
 audio, extracts log-mel features, trains a small neural network, quantises it to
